@@ -162,7 +162,7 @@ export const PROJETOS_DADOS: Projeto[] = [
   description: 'Aplicação desenvolvida inicialmente como projeto acadêmico, com o objetivo de facilitar a criação, organização e gerenciamento de formulários dinâmicos para coleta de dados em projetos públicos ou privados. A solução foi projetada para utilização em atividades de campo, considerando cenários com conectividade instável. Atualmente, o projeto está em evolução, com perspectiva de comercialização e lançamento futuro.',
 
   imgSrc: '/assets/projetos/smartpanel.png',
-  repositorio: 'SEU_LINK_DO_REPOSITORIO',
+  repositorio: 'https://github.com/ClaudioJaymeDiniz/app-mobile.git',
 
   tecnologias: [
     'Python',

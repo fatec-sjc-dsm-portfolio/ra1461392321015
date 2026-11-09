@@ -9,37 +9,37 @@ import {
 
 export function Hobbies() {
   const hobbies = [
-    {
-      title: "Dança de Salão",
-      icon: <Music className="w-8 h-8 text-brand-neon" />,
-      text: "Desde 2010 explorando ritmos. Minha paixão é o West Coast Swing, com 11 anos de apresentações no grupo Sette Oitto."
-    },
-    {
-      title: "Cultura Geek",
-      icon: <Gem className="w-8 h-8 text-brand-neon" />,
-      text: "Fã fervoroso de Senhor dos Anéis. Levo a paixão tão a sério que minha aliança de casamento é o 'One Ring'."
-    },
-    {
-      title: "Gaming",
-      icon: <Gamepad2 className="w-8 h-8 text-brand-neon" />,
-      text: "Entre a FATEC e o trabalho, sempre há tempo para as masmorras de Diablo IV e a imersão de Final Fantasy XIV."
-    },
-    {
-      title: "Rock & J-Rock",
-      icon: <Flame className="w-8 h-8 text-brand-neon" />,
-      text: "Do peso de SOAD, Slipknot e Blink-182 ao estilo visual do J-Rock. Já estive no front do show do The Gazette!"
-    },
-    {
-      title: "Animes & Mecha",
-      icon: <Bot className="w-8 h-8 text-brand-neon" />,
-      text: "Acompanho a jornada de One Piece e a estratégia de Code Geass. Cresci com Gundam Wing e a vibe de SAO."
-    },
-    {
-      title: "Leitura Isekai",
-      icon: <BookOpen className="w-8 h-8 text-brand-neon" />,
-      text: "Entusiasta de Mangás, Manhwas e Manhuas. O gênero Isekai é meu refúgio favorito para novas perspectivas."
-    }
-  ];
+  {
+    title: "Dança de Salão",
+    icon: <Music className="w-8 h-8 text-brand-neon" />,
+    text: "A dança de salão faz parte da minha vida desde 2010. Tenho um carinho especial pelo West Coast Swing e pelas experiências que vivi em apresentações com o grupo Sette Oitto."
+  },
+  {
+    title: "Cultura Geek",
+    icon: <Gem className="w-8 h-8 text-brand-neon" />,
+    text: "Gosto muito do universo de fantasia, especialmente O Senhor dos Anéis. É uma obra que tem um significado especial para mim — tanto que minha aliança de casamento faz referência ao Um Anel."
+  },
+  {
+    title: "Games",
+    icon: <Gamepad2 className="w-8 h-8 text-brand-neon" />,
+    text: "Gosto de jogos que oferecem mundos para explorar, histórias envolventes e desafios. Entre os títulos que fazem parte dos meus momentos de lazer estão Diablo IV e Final Fantasy XIV."
+  },
+  {
+    title: "Rock & J-Rock",
+    icon: <Flame className="w-8 h-8 text-brand-neon" />,
+    text: "Minha playlist passa por diferentes vertentes do rock, de System of a Down e Slipknot a Blink-182. Também gosto de J-Rock e tenho uma lembrança especial de ter assistido a um show do The Gazette."
+  },
+  {
+    title: "Animes & Mecha",
+    icon: <Bot className="w-8 h-8 text-brand-neon" />,
+    text: "Animes fazem parte dos meus interesses há bastante tempo. One Piece, Code Geass e Gundam Wing estão entre as obras que acompanho ou que marcaram minha relação com esse universo."
+  },
+  {
+    title: "Mangás & Manhwas",
+    icon: <BookOpen className="w-8 h-8 text-brand-neon" />,
+    text: "Também gosto de acompanhar histórias por meio de mangás, manhwas e manhuas. Tenho uma preferência especial pelo gênero Isekai, mas estou sempre aberto a conhecer novas histórias."
+  }
+];
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
